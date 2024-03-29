@@ -1,0 +1,14 @@
+{
+	"id": "autoplay-and-loop",
+	"name": "Autoplay & Loop",
+	"version": "1.0.0",
+	"description": "Auto reproduces videos inside notes.",
+	"author": "Zerkshop & Wapply",
+	"authorUrl": "https://github.com/Wapply",
+	"fundingUrl": {
+		"Buy Me a Coffee": "https://ko-fi.com/wapply"
+	},
+	"minAppVersion": "1.5.11",
+	"isDesktopOnly": false,
+	"main": "main.js"
+}
