@@ -1,2 +1,2 @@
 # obsidian-autoplay-and-loop
-This Obsidian plugin auto reproduces content inside notes.
+This Obsidian plugin autoplay videos inside and outside notes.
