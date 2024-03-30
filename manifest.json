@@ -2,7 +2,7 @@
 	"id": "autoplay-and-loop",
 	"name": "Autoplay & Loop",
 	"version": "1.0.0",
-	"description": "Auto reproduces videos inside notes.",
+	"description": "AutoPlay videos inside and outside notes.",
 	"author": "Zerkshop & Wapply",
 	"authorUrl": "https://github.com/Wapply",
 	"fundingUrl": {
