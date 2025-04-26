@@ -30,6 +30,7 @@ export default class AutoplayPlugin extends Plugin {
           if ((isVideo && this.settings.autoplayVideo) || (isAudio && this.settings.autoplayAudio)) {
             (mediaElement as HTMLMediaElement).autoplay = true;
             (mediaElement as HTMLMediaElement).loop = true;
+            (mediaElement as HTMLMediaElement).volume = 0;
             (mediaElement as HTMLMediaElement).play();
           }
         });
