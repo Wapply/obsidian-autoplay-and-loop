@@ -1,6 +1,6 @@
 {
 	"name": "autoplay-and-loop",
-	"version": "1.0.0",
+	"version": "1.0.2",
 	"description": "Auto reproduces videos inside notes.",
 	"main": "main.js",
 	"scripts": {
